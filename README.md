@@ -8,7 +8,7 @@
 
 Here's how the prediction interface looks:
 
-![GUI Screenshot](screenshot.png)
+![GUI Screenshot](preview.png)
 
 ---
 
